@@ -52,8 +52,8 @@ _Add screenshots of your application here to give users a preview._
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/todo-list-app.git
-   cd todo-list-app
+   git clone https://github.com/06-abhishek/modern-todo-app.git
+   cd modern-todo-app
    ```
 
 2. Install dependencies:  
@@ -73,7 +73,7 @@ _Add screenshots of your application here to give users a preview._
 
 ---
 
-## 🌟 Features to Add in Future (Optional)
+## 🌟 Features to Add in Future
 
 - Integration with a backend for multi-user support.  
 - Push notifications for task reminders.  
@@ -100,12 +100,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/your-username)
-
-
-### Steps to Use:
-1. Replace `your-username` with your GitHub username.
-2. Replace or remove the **Screenshots** section if you don’t have screenshots yet.
-3. Add a link to the license file if applicable.
-
-Copy, paste, and customize as needed! 😊
+Made with ❤️ by [Abhishek Patil](https://github.com/06-abhishek/)
