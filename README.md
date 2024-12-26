@@ -44,7 +44,7 @@ A simple yet powerful **Todo List Application** built with **React** and **Tailw
 
 ## 📸 Screenshots
 
-_Add screenshots of your application here to give users a preview._
+![Landing Page](public/demo.png)  
 
 ---
 
